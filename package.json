@@ -9,7 +9,7 @@
   },
   "scripts": {
     "test": "jest",
-    "start": "yarn next:start"
+    "start": "yarn daemonlog"
   },
   "author": "Yarn Contributors",
   "license": "BSD-2-Clause",
