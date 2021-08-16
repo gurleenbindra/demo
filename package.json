@@ -8,7 +8,8 @@
     "type": "git"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "yarn next:start"
   },
   "author": "Yarn Contributors",
   "license": "BSD-2-Clause",
