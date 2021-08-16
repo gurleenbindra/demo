@@ -11,9 +11,9 @@ jobs:
           node-version: "14.x"
       #- name: install deps
        # run: yarn install
-      - name: my docker
-        uses: docker://alpine:3.8
-      #- name: test
-       # run: yarn run test
+    #  - name: my docker
+     #   uses: docker://alpine:3.8
+      - name: test
+        run: yarn run test
    #   - name: tests
     #    run: yarn test
