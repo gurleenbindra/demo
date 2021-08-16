@@ -11,7 +11,7 @@ jobs:
           node-version: "14.x"
       - name: install deps
         run: yarn install
-      - name: start
-        run: yarn start
+      - name: test
+        run: yarn test
    #   - name: tests
     #    run: yarn test
