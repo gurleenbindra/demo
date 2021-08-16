@@ -9,7 +9,7 @@
   },
   "scripts": {
     "test": "jest",
-    "start": "yarn daemonlog"
+  //  "start": "yarn daemonlog"
   },
   "author": "Yarn Contributors",
   "license": "BSD-2-Clause",
@@ -19,7 +19,7 @@
   "devDependencies": {
     "jest-cli": "15.1.1"
   },
-  "jest": {
+ /* "jest": {
     "testEnvironment": "node"
-  }
+  }*/
 }
